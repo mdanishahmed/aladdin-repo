@@ -1,5 +1,5 @@
 *.png
 *.jpeg
 *.jpg
-ignorefolder/
+ignorefolder/ignorefile.txt
 
