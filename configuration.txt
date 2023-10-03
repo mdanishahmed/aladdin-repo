@@ -5,3 +5,5 @@
 
 
 cleanup file testing
+
+Now testing POLL SCM functionality.
